@@ -1,0 +1,9 @@
+header,footer
+{
+    background:#1d3557;
+}
+#btn-statement:hover,#btn-result:hover
+{
+background: rgba(0, 0, 0, 0.671);
+color: white;
+}
